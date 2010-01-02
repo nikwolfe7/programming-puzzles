@@ -1,7 +1,7 @@
 /*
 	find_ones.c
 	
-	This program finds the 1s in a 32 bit number by
+	This program finds the 1's in a 32 bit integer by
 	iteratively dividing by 10 and looking at the remainder
 */
 
